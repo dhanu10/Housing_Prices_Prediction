@@ -1,5 +1,4 @@
 # Project Name
-> Outline a brief description of your project.
 
 Predicting House Prices using historical data by applying Linear Regression techniques.
 
